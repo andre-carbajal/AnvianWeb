@@ -125,9 +125,9 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/chiseled-bookshelf-visualizer",
-        "downloads": 1426368,
-        "updatedAt": "2026-10-08T17:41:47.682Z",
-        "stale": true
+        "downloads": 1436904,
+        "updatedAt": "2026-10-12T20:24:00.000Z",
+        "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/chiseled-bookshelf-visualizer",
@@ -145,9 +145,9 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 642893,
-      "stale": true,
-      "partial": true
+      "value": 2079797,
+      "stale": false,
+      "partial": false
     },
     "archived": false
   },
@@ -353,9 +353,9 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/go-fish-rehooked",
-        "downloads": 371,
-        "updatedAt": "2026-10-08T17:41:47.682Z",
-        "stale": true
+        "downloads": 593,
+        "updatedAt": "2026-10-12T20:24:00.000Z",
+        "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/go-fish-rehooked",
@@ -373,9 +373,9 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 1217,
-      "stale": true,
-      "partial": true
+      "value": 1810,
+      "stale": false,
+      "partial": false
     },
     "archived": false
   },
@@ -687,9 +687,9 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/usedtotemmessage",
-        "downloads": 131,
-        "updatedAt": "2026-10-08T17:41:47.682Z",
-        "stale": true
+        "downloads": 201,
+        "updatedAt": "2026-10-12T20:24:00.000Z",
+        "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/usedtotemmessage",
@@ -707,9 +707,9 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 240,
-      "stale": true,
-      "partial": true
+      "value": 441,
+      "stale": false,
+      "partial": false
     },
     "archived": false
   },
