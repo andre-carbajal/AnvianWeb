@@ -11,14 +11,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/-bedrock-plus",
-        "downloads": 59905,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 60051,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/bedrock-pus",
-        "downloads": 168542,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 168665,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -31,7 +31,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 228447,
+      "value": 228716,
       "stale": false,
       "partial": false
     },
@@ -49,14 +49,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/-sculk-horn",
-        "downloads": 248120,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 248512,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/sculk-horn",
-        "downloads": 361297,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 361426,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -69,7 +69,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 609417,
+      "value": 609938,
       "stale": false,
       "partial": false
     },
@@ -87,14 +87,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/anvians-lib",
-        "downloads": 1043262,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 1049736,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/anvians-lib",
-        "downloads": 1240425,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 1253702,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -107,7 +107,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 2283687,
+      "value": 2303438,
       "stale": false,
       "partial": false
     },
@@ -131,8 +131,8 @@
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/chiseled-bookshelf-visualizer",
-        "downloads": 642308,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 642893,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -145,7 +145,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 642308,
+      "value": 642893,
       "stale": true,
       "partial": true
     },
@@ -163,14 +163,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/create_unbreakable",
-        "downloads": 154690,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 155122,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/create-unbreakable-tools",
-        "downloads": 378208,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 378520,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -183,7 +183,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 532898,
+      "value": 533642,
       "stale": false,
       "partial": false
     },
@@ -201,14 +201,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/modpack/createandspace",
-        "downloads": 72232,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 72358,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/modpacks/createandspace",
-        "downloads": 3992,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 3997,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -221,7 +221,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 76224,
+      "value": 76355,
       "stale": false,
       "partial": false
     },
@@ -239,14 +239,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/electric-mace",
-        "downloads": 38965,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 39117,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/electric-mace",
-        "downloads": 40856,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 40919,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -259,7 +259,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 79821,
+      "value": 80036,
       "stale": false,
       "partial": false
     },
@@ -277,14 +277,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/exploitation-timer",
-        "downloads": 11918,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 11990,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/exploitation-timer",
-        "downloads": 14758,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 14797,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -297,7 +297,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 26676,
+      "value": 26787,
       "stale": false,
       "partial": false
     },
@@ -315,14 +315,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/glow-ink-plus",
-        "downloads": 67535,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 67641,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/glow-ink-plus",
-        "downloads": 120265,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 120306,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -335,7 +335,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 187800,
+      "value": 187947,
       "stale": false,
       "partial": false
     },
@@ -359,8 +359,8 @@
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/go-fish-rehooked",
-        "downloads": 1192,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 1217,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -373,7 +373,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 1192,
+      "value": 1217,
       "stale": true,
       "partial": true
     },
@@ -391,14 +391,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/inventorytweak",
-        "downloads": 144977,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 145549,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/inventorytweak",
-        "downloads": 50754,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 50899,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -411,7 +411,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 195731,
+      "value": 196448,
       "stale": false,
       "partial": false
     },
@@ -429,14 +429,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/morebeeinfo",
-        "downloads": 195074,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 195974,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/morebeeinfo",
-        "downloads": 186762,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 186847,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -449,7 +449,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 381836,
+      "value": 382821,
       "stale": false,
       "partial": false
     },
@@ -467,8 +467,8 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/perfume-mod",
-        "downloads": 257,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 259,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -479,7 +479,7 @@
       "modrinth"
     ],
     "reportedDownloads": {
-      "value": 444,
+      "value": 447,
       "stale": false,
       "partial": false
     },
@@ -497,14 +497,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/record-days-survived",
-        "downloads": 18775,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 18817,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/record-days-survived",
-        "downloads": 153567,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 153583,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -517,7 +517,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 172342,
+      "value": 172400,
       "stale": false,
       "partial": false
     },
@@ -535,14 +535,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/resourcepack/sculkhorn3d",
-        "downloads": 1312,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 1314,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/texture-packs/sculkhorn3d",
-        "downloads": 2093,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 2095,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -555,7 +555,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 3405,
+      "value": 3409,
       "stale": false,
       "partial": false
     },
@@ -573,14 +573,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/simple-mango",
-        "downloads": 18230,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 18248,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/simple-mango",
-        "downloads": 54327,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 54339,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -593,7 +593,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 72557,
+      "value": 72587,
       "stale": false,
       "partial": false
     },
@@ -611,14 +611,14 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/sodium-extra-information",
-        "downloads": 717061,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 720943,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/sodium-extra-information",
-        "downloads": 581250,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 592855,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -631,7 +631,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 1298311,
+      "value": 1313798,
       "stale": false,
       "partial": false
     },
@@ -650,13 +650,13 @@
       "modrinth": {
         "url": "https://modrinth.com/modpack/sutvive-to-zombies-2",
         "downloads": 884,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/modpacks/survive-to-zombies-2",
         "downloads": 166,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -693,8 +693,8 @@
       },
       "curseforge": {
         "url": "https://www.curseforge.com/minecraft/mc-mods/usedtotemmessage",
-        "downloads": 230,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 240,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -707,7 +707,7 @@
       "curseforge"
     ],
     "reportedDownloads": {
-      "value": 230,
+      "value": 240,
       "stale": true,
       "partial": true
     },
@@ -725,8 +725,8 @@
     "sources": {
       "modrinth": {
         "url": "https://modrinth.com/mod/worldremover",
-        "downloads": 441,
-        "updatedAt": "2026-10-11T09:00:00.000Z",
+        "downloads": 445,
+        "updatedAt": "2026-10-12T09:00:00.000Z",
         "stale": false
       }
     },
@@ -737,7 +737,7 @@
       "modrinth"
     ],
     "reportedDownloads": {
-      "value": 717,
+      "value": 721,
       "stale": false,
       "partial": false
     },
