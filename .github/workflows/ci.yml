@@ -26,4 +26,4 @@ jobs:
           curl --fail http://localhost:8080/projects/
           test "$(curl -s -o /dev/null -w '%{http_code}' -H 'Host: blog.anvian.net' http://localhost:8080/posts/mcmodtest/)" = 301
           test "$(curl -sS -o /dev/null -w '%{http_code}' -H 'Host: anvian.net' http://localhost:8080/telemetry/health)" = 200
-          test "$(curl -sS -o /dev/null -w '%{http_code}' -X POST -H 'Host: anvian.net' -H 'Content-Type: application/json' --data '{\"mod_id\":\"__ci_unknown_mod__\",\"mod_version\":\"0.0.0\",\"game_version\":\"0.0.0\",\"loader\":\"ci\"}' http://localhost:8080/telemetry/data)" = 404
+          test "$(curl -sS -o /dev/null -w '%{http_code}' -X POST -H 'Host: anvian.net' -H 'Content-Type: application/json' --data '{"mod_id":"__ci_unknown_mod__","mod_version":"0.0.0","game_version":"0.0.0","loader":"ci"}' http://localhost:8080/telemetry/data)" = 404
